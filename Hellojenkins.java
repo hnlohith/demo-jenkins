@@ -4,4 +4,4 @@ public class Hellojenkins {
         System.out.println("this is for build checking!!");
         System.out.println("this is for build checking 2222!!");        
     }
-}Jenkins test
+}
